@@ -1,0 +1,6 @@
+User: John logged in
+User: Mike failed login
+User: John accessed file confidential.pdf
+User: Mike failed login
+User: Admin logged in
+User: Mike failed login

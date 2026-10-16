@@ -1,0 +1,11 @@
+
+--- DIGITAL FORENSIC REPORT ---
+
+User Activity:
+John: 2 actions
+Mike: 3 actions
+Admin: 1 actions
+
+Total Failed Login Attempts: 3
+
+[WARNING] Suspicious Activity Detected!
